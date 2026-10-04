@@ -1,7 +1,11 @@
 # Html5 + CSS3  + JavaSript
 
 A modern, responsive landing page built with pure **HTML5** and **CSS3**. This showcase website highlights gym services, facility photos, and membership details across desktop and mobile devices without external frameworks or dependencies.
-<img alt="GIF" src="" width="94%"/>
+
+<img src="images/" alt="IRONCORE Gym Showcase" width="600">
+<img src="images/" alt="IRONCORE Gym Showcase" width="600">
+<img src="images/" alt="IRONCORE Gym Showcase" width="600">
+<img src="images/" alt="IRONCORE Gym Showcase" width="600">
 &nbsp;
 &nbsp;
 

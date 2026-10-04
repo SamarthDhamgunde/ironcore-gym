@@ -1,3 +1,5 @@
+> 📌 **Note:** This is a **frontend-only project**. The login, logout, and membership buttons are styled user interface (UI) components designed for demonstration purposes and do not include full backend authentication or database integration.
+
 # Html5 + CSS3  + JavaSript
 
 A modern, responsive landing page built with pure **HTML5** and **CSS3**. This showcase website highlights gym services, facility photos, and membership details across desktop and mobile devices without external frameworks or dependencies.

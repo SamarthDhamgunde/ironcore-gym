@@ -13,8 +13,8 @@ A modern, responsive landing page built with pure **HTML5** and **CSS3**. This s
 <img src="IRONCORE-strength-gym-clean/img/second.png" width="30%" alt="Showcase 1" />
 <img src="IRONCORE-strength-gym-clean/img/third.png" width="30%" alt="Showcase 1" />
 <img src="IRONCORE-strength-gym-clean/img/four.png" width="30%" alt="Showcase 1" />
-<img src="IRONCORE-strength-gym-clean/img/five.png" width="30%" alt="Showcase 1" />
 <img src="IRONCORE-strength-gym-clean/img/six.png" width="30%" alt="Showcase 1" />
+<img src="IRONCORE-strength-gym-clean/img/five.png" width="30%" alt="Showcase 1" />
 &nbsp;
 &nbsp;
 </p >

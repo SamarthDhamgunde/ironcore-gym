@@ -12,6 +12,13 @@ A modern, responsive landing page built with pure **HTML5** and **CSS3**. This s
 
 ---
 
+## 🛠️ Technologies Used
+
+### Frontend
+- **HTML5:** Semantic markup for structured, accessible content across all pages.
+- **CSS3:** Custom styling featuring Flexbox, CSS Grid, custom properties (variables), and responsive media queries.
+- **JavaScript (ES6+):** Interactive client-side functionality, smooth scrolling, and dynamic DOM manipulation.
+
 #  IRONCORE Gym
 
 **Welcome to the **IRONCORE Website Landing Page** project! This is a fully responsive, modern website designed for a gym using **HTML5, CSS3, JavaScript**, and **FormSubmit** for seamless email integration via the contact form. It showcases our state-of-the-art facility, elite coaching programs, and offers an easy way for prospective members to get in touch**
